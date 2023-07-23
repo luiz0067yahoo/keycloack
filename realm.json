@@ -1,0 +1,17 @@
+{
+  "realm": "reino_inprolink_cursos",
+  "enabled": true,
+  "users": [
+    {
+      "username": "admin",
+      "enabled": true,
+      "credentials": [
+        {
+          "type": "password",
+          "value": "1NPR0L1k_CUR505",
+          "temporary": false
+        }
+      ]
+    }
+  ]
+}
